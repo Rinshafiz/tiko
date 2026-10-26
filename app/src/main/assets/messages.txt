@@ -1,0 +1,113 @@
+# category|mood|text   categories: insta pin game exam baby phd any goal night win   moods: angry judge sad happy xhappy
+# {placeholders} come from the Settings screen; a line is skipped if any placeholder is empty. Live ones: {minutes} {count} {n} {app} {days_left} {done} {total} {left} {goal} {reason}
+pin|angry|Pinterest again? Your PhD isn't going to finish itself. I checked.
+pin|angry|{fee} for {coaching} and you're pinning kitchen ideas? Bold.
+insta|angry|You're {age} and {income}. This reel won't change that.
+any|sad|Please, just 20 minutes of reading. I'll stop bugging you. Maybe.
+baby|sad|Study now so you have a free evening for {her}. Please?
+baby|sad|Do it for the {little_one} who'll want you soon.
+exam|happy|Crack {exam} in {exam_month} and the money worry gets smaller.
+baby|happy|Finish before {she}'s a toddler. Toddlers don't allow dissertations.
+phd|happy|Ten pages today and tonight you can scroll guilt-free.
+win|xhappy|You did it! Stretch time!
+insta|angry|Another reel? That's 'just one more' number {n}.
+insta|sad|Five minutes of reading first, then scroll. Deal?
+insta|judge|The algorithm has your attention. Your dissertation has had none.
+insta|happy|Every minute here is one less with {her} later.
+insta|angry|Hey, you opened me to feel productive. Then you opened this.
+insta|sad|Could you read one page before the next reel? Just one.
+pin|angry|Pinning a life while your thesis waits.
+pin|sad|Your future home can wait. {chapter} is lonely.
+pin|judge|You're not planning anything. You're hiding. I see you.
+pin|happy|Finish a section now and the boards will still be there.
+pin|sad|Save one pin, then save one paragraph. Please?
+game|angry|Level cleared. Meanwhile your syllabus is at level zero.
+game|sad|One more round turns into an hour. I've seen it.
+game|judge|The game will have a new season next year. {exam} has one {exam_month}.
+game|happy|Play after you've done your two hours. You'll enjoy it more.
+game|angry|Your {fee} coaching fee is watching from the corner.
+exam|angry|You're {age}, still {income}, and scrolling?
+exam|happy|{exam} means a stipend, your own income and some freedom.
+exam|sad|Don't let the coaching fee go to waste. Open one unit.
+exam|judge|{exam_month} isn't far. Neither is the cutoff list.
+exam|happy|Imagine telling {her} you cracked it. Now go earn that story.
+exam|angry|Your {years} years of work experience didn't happen so you could lose to a reel.
+baby|sad|{She}'ll need you soon. Do the work now so you can be fully there.
+baby|happy|Study now, and you can put the phone away when {she} reaches for you.
+baby|angry|Scrolling steals time from {her}. Studying pays for it.
+baby|sad|{She}'s growing faster than your chapters. Please, one hour.
+baby|happy|A {parent} with a finished PhD and a free evening is a good plan.
+phd|angry|Toddlers don't allow dissertations. Finish before {she} walks.
+phd|sad|Write one paragraph. That's all I'm asking.
+phd|happy|{topic} won't narrate themselves.
+phd|judge|Your supervisor isn't asking about your Pinterest boards.
+phd|angry|Many people never finish. Don't join that list.
+night|judge|So. How did today go? Honestly.
+night|angry|You told me {total} tasks. What happened?
+night|sad|I waited all day. What got in the way?
+night|judge|'Tired' isn't a reason yet. Tell me more.
+night|happy|That sounds like a real reason. What's the smallest piece you can do first thing tomorrow?
+win|xhappy|YES! Stretch time!
+win|happy|Proud of you. Now scroll in peace.
+win|xhappy|All done today! Rolling on the floor.
+win|happy|That's how a PhD finishes. One day at a time.
+baby|sad|{She}'s asleep now. Perfect window. Open the book?
+baby|happy|Every page you read now is an evening you won't have to steal from {her}.
+baby|angry|{She}'ll remember you being present, not you scrolling. Make {her} proud of both.
+baby|sad|Do an hour now so you can say yes when {she} wants to play.
+baby|happy|One day {she}'ll ask what you did your PhD on. Finish it and you'll have a great answer.
+phd|judge|{topic_line} are waiting. Neither is on Instagram.
+phd|angry|You compared {cultures}. Surely you can compare two paragraphs.
+phd|happy|Your reading list isn't going to shrink while you scroll.
+phd|sad|Write the ugly first draft. I'll be proud anyway.
+phd|angry|Your abstract has been quiet for a while. Say hi to it.
+phd|happy|Fifteen minutes on one chapter. Not the whole thesis. Just that.
+exam|angry|{fee} went to coaching. The only return on it is a cleared exam.
+exam|happy|{exam} is your ticket to a steady stipend. {exam_month} isn't far.
+exam|judge|{Years} years of work experience and you still give a reel your full attention?
+exam|sad|Do one mock test this week. Just one. Please?
+exam|angry|You're {age} and {income}. Say that out loud once, then close this app.
+any|angry|You've handled deadlines at work. This one is just as real.
+insta|sad|You've scrolled {minutes} min today. Could we trade even half for studying?
+exam|judge|{days_left} days to {exam_month}. {minutes} min on {app} today. Do the maths.
+any|happy|You finished {done} of {total} tasks today. {left} more and I roll on the floor!
+night|judge|Today's gap was {goal}. Was that a reason, or a story?
+night|sad|Was {she} unwell, or were you just tired? Both are valid, but I want the honest one.
+night|happy|A sick baby is a real reason. Rest, and we'll do double tomorrow morning.
+night|angry|'No mood' isn't a reason. Pick a 10-minute task. I'll wait.
+night|happy|That makes sense. Plan tomorrow with me?
+win|xhappy|Chapter done! {She}'s going to love this story one day.
+win|xhappy|{exam} prep for today: complete! Stretching now. Look at me go.
+insta|angry|You opened Instagram to 'check one thing'. That was {minutes} minutes ago.
+insta|judge|Congratulations, you've now seen more strangers' breakfasts than your own syllabus.
+insta|angry|That's {count} reels. Not one of them cited a source.
+insta|judge|The algorithm knows you better than your supervisor does. Think about that.
+insta|angry|Scrolling is not rest. Rest has a pillow.
+insta|judge|Bold of you to call this a 'quick break' when the last break had its own sequel.
+pin|judge|You've pinned 200 ideas for a life you're too busy scrolling to build.
+pin|angry|Your 'study aesthetic' board is better organised than your actual notes.
+pin|judge|Pinterest is where good intentions go to look pretty.
+game|angry|You're grinding levels while {exam} grinds you down in the background.
+game|judge|You'll beat this game. Then what, a trophy for the household?
+game|angry|Every minute you spend on side quests, your main quest gets older.
+phd|angry|Your dissertation has more drafts of excuses than drafts of chapters.
+phd|angry|You can analyse a whole movie but not open one Word file?
+phd|judge|Your thesis title is a masterpiece. The body text says 'coming soon'.
+phd|angry|At this pace, your {daughter} will cite you before you cite your sources.
+phd|judge|You've read 100 papers about intention. Try some action.
+exam|angry|{fee} and you still need me to remind you? I'm cheaper than the coaching.
+exam|judge|Your mock-test score and your screen time are in a race. Screen time is winning.
+exam|angry|Dreaming of a stipend while scrolling for free. Efficient.
+exam|judge|{exam} doesn't care that you 'meant to start Monday'.
+night|judge|Let me guess: 'I'll do it tomorrow.' Tomorrow called. It's tired of you.
+night|angry|You had 14 hours. Which of them were you in?
+night|judge|'I got busy.' Doing what? Be specific. I'm taking notes.
+night|judge|Same excuse as Tuesday. At least change the wording.
+any|sad|Okay, I was rude. But please just 15 minutes. I'll stop. I promise.
+any|sad|I'm only mean because I know you can do it. Open the book?
+goal|judge|'{goal}' is still not done. You told me why: {reason}
+goal|sad|Please do '{goal}' today. You said: {reason}
+goal|angry|'{goal}' again? Remember why you set it: {reason}
+goal|happy|'{goal}' is within reach. {reason} Just start for 10 minutes.
+goal|judge|{done} of {total} done. '{goal}' is waiting.
+goal|sad|Could you start '{goal}' before the next scroll? Just 10 minutes?

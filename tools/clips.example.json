@@ -1,0 +1,10 @@
+{
+  "idle": "videos/sitting_smile.mp4",
+  "idle_happy": "videos/sitting_laugh.mp4",
+  "entrance": "videos/walk_then_sit.mp4",
+  "mood_judge": "videos/arms_crossed.mp4",
+  "mood_angry": "videos/angry.mp4",
+  "mood_excited": "videos/excited.mp4",
+  "mood_sad": "videos/sad.mp4",
+  "mood_happy": "videos/smile.mp4"
+}
