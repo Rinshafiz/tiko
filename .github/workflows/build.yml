@@ -16,6 +16,8 @@ jobs:
         with:
           gradle-version: 8.5
       - run: gradle assembleDebug --no-daemon
+      - run: find app/build/outputs -type f -name "*.apk" -print
+      - run: ls -R app/build/outputs
       - uses: actions/upload-artifact@v4
         with:
           name: Tiko-debug-apk
